@@ -1,0 +1,3 @@
+/home/nikita/Desktop/calculC (5)/calculC/cmake-build-debug/CMakeFiles/calculC.dir
+/home/nikita/Desktop/calculC (5)/calculC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nikita/Desktop/calculC (5)/calculC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
