@@ -11,12 +11,12 @@
 
 #define MAX_TOKENS 100
 
-const GtkListStore *list_store; // Global for entering any event
+const GtkListStore *list_store; // Global  for entering any event
 
 void add_to_table(char *first, double second) { // количество строк равно 7
     GtkTreeIter iter;
 
-    FILE *file;
+    FILE *file ;
 
     gint num_rows = gtk_tree_model_iter_n_children(GTK_TREE_MODEL(list_store), NULL);
     if (num_rows == 7) { // max size
